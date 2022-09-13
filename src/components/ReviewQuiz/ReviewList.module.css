@@ -1,0 +1,16 @@
+.reviews ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.reviews h1,
+h2 {
+  text-align: center;
+}
+
+.button {
+  max-width: 100%;
+  text-align: center;
+  margin: 1rem 0;
+}
