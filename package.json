@@ -2,7 +2,7 @@
   "name": "react-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thuan1110.github.io/react-quiz/",
+  "homepage": "https://Thuan1110.github.io/react-quiz/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
@@ -25,7 +25,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages-d build",
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
