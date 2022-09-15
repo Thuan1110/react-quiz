@@ -15,8 +15,11 @@ This project is mainly for practice on how to use TypeScript with React
 ## Description
 
 ```
-Build a website that allows users to play a simple quiz game
+Build a simple website with React, TypeScript, and API that allows users to play a quiz game
 ```
+
+## Demo
+https://thuan1110.github.io/react-quiz/
 
 ## Frameworks/libraries
 
